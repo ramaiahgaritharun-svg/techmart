@@ -112,7 +112,7 @@ function Navbar() {
                 className={`nav-link ${styles.navLink}`}
                  to="/checkout"
               >
-                Checkout
+                🛒
               </Link>
             </li>
           </ul>

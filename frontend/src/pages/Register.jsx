@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { api } from "../services/api";
 import { toast } from "react-toastify";
 import styles from "./Register.module.css";
-import logo from "../assets/banner1.png";
+import logo from "../assets/brand.png";
 
 function Register() {
   const navigate = useNavigate();
@@ -131,13 +131,13 @@ function Register() {
                 {/* LOGO */}
 
                 <div className={styles.logoBox}>
-                  <img src={logo} alt="GenMart" className={styles.logo} />
+                  <img src={logo} alt="TechMart" className={styles.logo} />
                 </div>
 
                 <h1 className={styles.title}>Create Account</h1>
 
                 <p className={styles.subtitle}>
-                  Join GenMart and start shopping today.
+                  Join TechMart and start shopping today.
                 </p>
 
                 {/* USERNAME */}

@@ -5,7 +5,7 @@ import { toast } from "react-toastify";
 import { useDispatch } from "react-redux";
 import { loginSuccess } from "../features/auth/authSlice";
 import styles from "./Login.module.css";
-import logo from "../assets/banner1.png";
+import logo from "../assets/brand.png";
 
 function Login() {
   const navigate = useNavigate();

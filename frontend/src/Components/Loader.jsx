@@ -1,5 +1,5 @@
 import styles from "./Loader.module.css";
-import logo from "../assets/banner1.png";
+import logo from "../assets/brand.png";
 import { memo } from "react";
 
 function Loader() {
