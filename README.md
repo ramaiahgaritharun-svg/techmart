@@ -322,7 +322,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Ramaiah Gari Tarun**
+**Ramaiahgari Tarun**
 
 GitHub: https://github.com/ramaiahgaritharun-svg
 
