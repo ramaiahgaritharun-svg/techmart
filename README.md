@@ -260,7 +260,7 @@ ACCESS_TOKEN_LIFETIME=60
 ### Backend
 
 * Railway
-* AWS EC2
+* AWS S3
 
 ### Frontend
 
@@ -269,6 +269,9 @@ ACCESS_TOKEN_LIFETIME=60
 ### Database
 
 * MySQL
+
+## Live Demo
+https://techmart-mt.vercel.app/
 
 ---
 
